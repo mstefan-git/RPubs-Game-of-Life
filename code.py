@@ -1,3 +1,7 @@
+# Replication file for: "Conway’s Game of Life in Python"
+# RPubs-link: https://rpubs.com/mstefan-rpubs/conway
+# (c) Martin Stefan, June 2020
+
 import pygame as pg
 import copy
 from dataclasses import dataclass
